@@ -1,4 +1,5 @@
 # rustqueue — a bounded FIFO message queue as a Linux kernel module
+Author: Cecilia Zaragoza
 
 ## Demo
 
